@@ -6,7 +6,6 @@ const GameCardSkeleton = () => {
       <Skeleton height="200px" />
       <CardBody />
       <SkeletonText> </SkeletonText>
-      <SkeletonText> </SkeletonText>
     </Card>
   );
 };
