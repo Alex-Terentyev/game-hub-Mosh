@@ -1,9 +1,11 @@
-import { FaWindows } from "react-icons/fa";
-import { FaPlaystation } from "react-icons/fa";
-import { FaXbox } from "react-icons/fa";
-import { FaApple } from "react-icons/fa";
-import { FaLinux } from "react-icons/fa";
-import { FaAndroid } from "react-icons/fa";
+import {
+  FaAndroid,
+  FaApple,
+  FaLinux,
+  FaPlaystation,
+  FaWindows,
+  FaXbox,
+} from "react-icons/fa";
 import { MdPhoneIphone } from "react-icons/md/index";
 import { SiNintendo } from "react-icons/si/index";
 
