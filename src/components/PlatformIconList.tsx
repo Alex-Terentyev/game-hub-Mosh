@@ -7,9 +7,9 @@ import { FaAndroid } from "react-icons/fa";
 import { MdPhoneIphone } from "react-icons/md/index";
 import { SiNintendo } from "react-icons/si/index";
 
-import { Platform } from "../hooks/useGames";
 import { HStack, Icon } from "@chakra-ui/react";
 import { IconType } from "react-icons";
+import { Platform } from "../hooks/usePlatforms";
 
 interface Props {
   platforms: Platform[];
